@@ -1,0 +1,19 @@
+{
+  "name": "hello-node",
+  "version": "0.0.1",
+  "description": "Node Js App For Websocket Servers",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "ws": "^7.5.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+  ]
+}
