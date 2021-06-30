@@ -1,3 +1,5 @@
+/* From Youtuber Called PCamp, Cleaned Up The Code */
+
 const WebSocket = require('ws');
 const Port = 5000;
 const WebSocketServer = new WebSocket.Server({
